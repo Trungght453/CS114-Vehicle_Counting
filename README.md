@@ -5,8 +5,9 @@
 | Trương Đăng Nghĩa  | Content Cell  |
 | Phạm Kiên | Content Cell  |
 # Bài Toán: Đếm số lượng xe trên một đoạn đường.
-1. Mô tả bài toán:
-  - Bullet list
+##1. Mô tả bài toán:
+  - Input
               - Nested bullet
                   - Sub-nested bullet etc
-  - Bullet list item 2 
+  - Output:
+  - Ngử cảnh ứng dụng
