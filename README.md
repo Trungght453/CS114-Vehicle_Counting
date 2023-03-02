@@ -6,11 +6,10 @@
 | Phạm Kiên | Content Cell  |
 # Bài Toán: Đếm số lượng xe trên một đoạn đường.
 ## 1. Mô tả bài toán:
-  - Input
-              - Nested bullet
-                  - Sub-nested bullet etc
-  - Output:
-  - Ngử cảnh ứng dụng
+  - Input: Một đoạn video ngắn ghi lại hình ảnh của một đoạn đường.
+  - Output: Một con số thể hiện số lượng xe mỗi loại và tổng số lượng phương tiện trong thời lượng video.
+  - Ngử cảnh ứng dụng:
+
 ## 2. Mô tả bộ dữ liệu:
   - Cách thức xây dựng bộ dữ liệu:  
     - Nested bullet
