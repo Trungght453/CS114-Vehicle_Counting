@@ -1,8 +1,8 @@
 # CS114-Vehicle_Counting
 | Thành viên  | MSSV |
 | ------------- | ------------- |
-| Lê Phước Trung  | Content Cell  |
-| Trương Đăng Nghĩa  | Content Cell  |
+| Lê Phước Trung  | 20522069  |
+| Trương Đăng Nghĩa  | 20521658  |
 | Phạm Kiên | Content Cell  |
 # Bài Toán: Đếm số lượng xe trên một đoạn đường.
 ## 1. Mô tả bài toán:
