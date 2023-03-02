@@ -13,7 +13,7 @@
   - Ngử cảnh ứng dụng
 ## 2. Mô tả bộ dữ liệu:
   - Cách thức xây dựng bộ dữ liệu:  
-              - Nested bullet
+    - Nested bullet
               -
               -
   - Thao tác với dữ liêu:
