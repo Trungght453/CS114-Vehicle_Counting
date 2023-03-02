@@ -14,21 +14,21 @@
 ## 2. Mô tả bộ dữ liệu:
   - Cách thức xây dựng bộ dữ liệu:  
     - Nested bullet
-              -
-              -
+    -
+    -
   - Thao tác với dữ liêu:
-              - Nested bullet
-              -
-              -
+    - Nested bullet
+    -
+    -
   - Tiền xử lý dữ liệu:
-              - Nested bullet
-              -
-              -
+    - Nested bullet
+    -
+    -
 ## 3. Mô tả đặc trưng:
   - Feature engineering:
-              - Nested bullet
-              -
-              -
+    - Nested bullet
+    -
+    -
   - Dataset:
 ## 4. Mô tả thuật toán máy học:
   -
