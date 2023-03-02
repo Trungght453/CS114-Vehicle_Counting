@@ -7,7 +7,7 @@
 # Bài Toán: Đếm số lượng xe trên một đoạn đường.
 ## 1. Mô tả bài toán:
   - Input: Một đoạn video ngắn ghi lại hình ảnh của một đoạn đường.
-  - Output: Một con số thể hiện số lượng xe mỗi loại và tổng số lượng phương tiện trong thời lượng video.
+  - Output: Số lượng xe mỗi loại và tổng số lượng phương tiện trong thời lượng video.
   - Ngử cảnh ứng dụng:
 
 ## 2. Mô tả bộ dữ liệu:
