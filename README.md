@@ -15,12 +15,13 @@
   - Input: một đoạn video ngắn ghi lại hoạt động giao thông xe cộ qua lại trong 1 khoảng thời gian, trong điều kiện ánh sáng bình thường.
   - Output: Số lượng xe mỗi loại và tổng số lượng phương tiện trong thời lượng video.
   - Ngử cảnh ứng dụng:
-
+    -Giám sát tình hình giao thông
+    -Điều chỉnh lưu lượng giao thông vào giờ cao điểm.
+    -Sử dụng cho việc xây dựng cơ sở hạ tầng.
 ## 2. Mô tả bộ dữ liệu:
   - Cách thức xây dựng bộ dữ liệu:  
     - Tự xây dựng dữ liệu, nhóm quay lại video giao thông ở 2 đoạn đường Song Hành và Võ Văn Ngân, mỗi đoạn khoảng 2-3 videos, tổng thời lượng khoảng 27 phút, 60FPS.
     -Tách video thành từng frame, cứ mỗi 1s thì sẽ lấy 1 frame, tổng là 1511 tấm ảnh.
-    -
   - Thao tác với dữ liêu:
     - Chia train/val theo tỉ lệ 80/20: train:1155 tấm, valid: 356 tấm, sử dụng roboflow để gán nhãn label.
     -
