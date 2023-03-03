@@ -6,17 +6,17 @@
 | Phạm Kiên | Content Cell  |
 # Bài Toán: Đếm số lượng xe trên một đoạn đường.
 ## 1. Mô tả bài toán:
-  - Input: Một đoạn video ngắn ghi lại hình ảnh của một đoạn đường.
+  - Input: một đoạn video ngắn ghi lại hoạt động giao thông xe cộ qua lại trong 1 khoảng thời gian, trong điều kiện ánh sáng bình thường.
   - Output: Số lượng xe mỗi loại và tổng số lượng phương tiện trong thời lượng video.
   - Ngử cảnh ứng dụng:
 
 ## 2. Mô tả bộ dữ liệu:
   - Cách thức xây dựng bộ dữ liệu:  
-    - Nested bullet
-    -
+    - Tự xây dựng dữ liệu, nhóm quay lại video giao thông ở 2 đoạn đường Song Hành và Võ Văn Ngân, mỗi đoạn khoảng 2-3 videos, tổng thời lượng khoảng 27 phút, 60FPS.
+    -Tách video thành từng frame, cứ mỗi 1s thì sẽ lấy 1 frame, tổng là 1511 tấm ảnh.
     -
   - Thao tác với dữ liêu:
-    - Nested bullet
+    - Chia train/val theo tỉ lệ 80/20: train:1155 tấm, valid: 356 tấm, sử dụng roboflow để gán nhãn label.
     -
     -
   - Tiền xử lý dữ liệu:
