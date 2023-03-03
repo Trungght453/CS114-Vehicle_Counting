@@ -1,0 +1,13 @@
+train: dataset/train/images
+val: dataset/valid/images
+test: dataset/test
+
+nc: 4
+names: ['bus', 'car', 'motorbike', 'truck']
+
+roboflow:
+  workspace: ml-mvw1s
+  project: vehicle-counting-ev2em
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ml-mvw1s/vehicle-counting-ev2em/dataset/1
